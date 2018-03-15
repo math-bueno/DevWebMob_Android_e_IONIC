@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ServiceDesk.iml" filepath="$PROJECT_DIR$/ServiceDesk.iml" />
+      <module fileurl="file://C:\Users\Matheus\Documents\Desenvolvimento Mobile\DevMobi04\ServiceDesk\ServiceDesk.iml" filepath="C:\Users\Matheus\Documents\Desenvolvimento Mobile\DevMobi04\ServiceDesk\ServiceDesk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Matheus\Documents\Desenvolvimento Mobile\DevMobi04\ServiceDesk\app\app.iml" filepath="C:\Users\Matheus\Documents\Desenvolvimento Mobile\DevMobi04\ServiceDesk\app\app.iml" />
+    </modules>
+  </component>
+</project>
